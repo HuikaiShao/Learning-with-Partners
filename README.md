@@ -11,7 +11,7 @@ Training Model and Predicting
 ```
 Download the database
 
-Then "./train/train.py"
+Then "train.py"
 ```
 
 ## The databases used
